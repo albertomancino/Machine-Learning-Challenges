@@ -20,3 +20,24 @@ Apply dimensionality reduction using PCA, divide the dataset in 10 subsets using
 Apply min-max and/or Z-score normalization, build a multiclass logistic regression model with L2 regularization using full-batch Gradient Descent.
 - NEURAL NETWORK LOGISTIC REGRESSION: predict an object unknown feature, based on other features and a training dataset using a Neural Network coded by scratch.
 Apply Z-score normalization.
+
+
+**If you publish any work which uses the code stored in this project, please cite the following creators:** <br/>
+Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
+
+**Developers** <br/>
+Sergio Abascià  <br/>
+Gianluca Azzollini <br/>
+Alberto Carlo Maria Mancino <br/>
+
+**Contacts** <br/>
+We are happy to help you with any question. Please contact us on our mails: <br/>
+sergio05.abascia@gmail.com <br/>
+azzollinigianluca@gmail.com <br/>
+alberto.mancino94@gmail.com <br/>
+<br/>
+
+
+<img src="https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot1.png" width="348">
+
+<img src="https://github.com/azzollinigianluca95/Word-Embedding-applied-on-literary-works/blob/master/screenshot2.png" width="348">
