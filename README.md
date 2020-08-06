@@ -13,12 +13,12 @@ The topics covered by these challenges are: </br>
 **Dimensionality reduction**: PCA and Kernel PCA. </br>
 
 Each challenge is briefly described below:
-- BOOK PRICE PREDICTION: exploit data about sale books to train a Machine Learning model capable of predicting the price of a book, starting from the available information about it.
-- IMAGES CLUSTERING AND CLASSIFICATION: classify 28x28 grayscale images.
+- **BOOK PRICE PREDICTION**: exploit data about sale books to train a Machine Learning model capable of predicting the price of a book, starting from the available information about it.
+- **IMAGES CLUSTERING AND CLASSIFICATION**: classify 28x28 grayscale images.
 Apply dimensionality reduction using PCA, divide the dataset in 10 subsets using clustering algorithms, computer the ideal number of clusters using Elbow method and compute Silhouette Coefficient applied to each clustering method used.
-- LOGISTIC REGRESSION: predict an object unknown feature, based on other features and a training dataset.
+- **LOGISTIC REGRESSION**: predict an object unknown feature, based on other features and a training dataset.
 Apply min-max and/or Z-score normalization, build a multiclass logistic regression model with L2 regularization using full-batch Gradient Descent.
-- NEURAL NETWORK LOGISTIC REGRESSION: predict an object unknown feature, based on other features and a training dataset using a Neural Network coded by scratch.
+- **NEURAL NETWORK LOGISTIC REGRESSION**: predict an object unknown feature, based on other features and a training dataset using a Neural Network coded by scratch.
 Apply Z-score normalization.
 </br>
 
