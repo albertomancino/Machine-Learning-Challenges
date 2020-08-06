@@ -11,6 +11,7 @@ The topics covered by these challenges are: </br>
 **Neural networks** and Support Vector Machines. </br>
 **Unsupervised learning techniques**: K-Means, K-Medoids, GMM, Hierarchical clustering, DBSCAN. </br>
 **Dimensionality reduction**: PCA and Kernel PCA. </br>
+</br>
 
 Each challenge is briefly described below:
 - **BOOK PRICE PREDICTION**: exploit data about sale books to train a Machine Learning model capable of predicting the price of a book, starting from the available information about it.
