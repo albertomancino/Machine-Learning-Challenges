@@ -2,6 +2,7 @@
 
 Focus on the Machine Learning course challenges solved by the students of the Artificial Intelligence and Machine Learning course at ‘Politecnico Di Bari’.
 The aim of these challenges is to test both the theoretical knowledge and coding skills about the Machine Learning topics covered in the lessons. The students had 2 hours and half for each challenge to implement a solution using Machine Learning principles and algorithms. </br>
+</br>
 
 The topics covered by these challenges are: </br>
 **Gradient descent algorithm** for univariate linear regression, multivariate linear regression, polynomial regression, logistic regression. </br>
