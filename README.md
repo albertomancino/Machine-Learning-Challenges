@@ -3,14 +3,14 @@
 Focus on the Machine Learning course challenges solved by the students of the Artificial Intelligence and Machine Learning course at ‘Politecnico Di Bari’.
 The aim of these challenges is to test both the theoretical knowledge and coding skills about the Machine Learning topics covered in the lessons. The students had 2 hours and half for each challenge to implement a solution using Machine Learning principles and algorithms.
 
-The topics covered by these challenges are:
-**Gradient descent algorithm** for univariate linear regression, multivariate linear regression, polynomial regression, logistic regression.
+The topics covered by these challenges are: </br>
+**Gradient descent algorithm** for univariate linear regression, multivariate linear regression, polynomial regression, logistic regression. </br>
 **Data preprocessing**: Min-max and Z-score normalization, feature selection, removing outliers.
-**Cross validation**: hold-out method, K-folds method, random subsampling.
-**Model evaluation**: learning curves, metrics, ROC curve.
-**Neural networks** and Support Vector Machines.
-**Unsupervised learning techniques**: K-Means, K-Medoids, GMM, Hierarchical clustering, DBSCAN.
-**Dimensionality reduction**: PCA and Kernel PCA
+**Cross validation**: hold-out method, K-folds method, random subsampling. </br>
+**Model evaluation**: learning curves, metrics, ROC curve. </br>
+**Neural networks** and Support Vector Machines. </br>
+**Unsupervised learning techniques**: K-Means, K-Medoids, GMM, Hierarchical clustering, DBSCAN. </br>
+**Dimensionality reduction**: PCA and Kernel PCA. </br>
 
 Each challenge is briefly described below:
 - BOOK PRICE PREDICTION: exploit data about sale books to train a Machine Learning model capable of predicting the price of a book, starting from the available information about it.
